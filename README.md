@@ -13,7 +13,7 @@ To run this application, you need to first clone the `getting-started-with-the-v
 
 ### Axis value types
 
-Vue Sparkline Charts control offers different axes types like numeric, category, and date-time to plot any type of data in the
+[Vue Sparkline Charts](https://www.syncfusion.com/vue-components/vue-sparkline?utm_source=github&utm_medium=listing&utm_campaign=vue-sparkline-chart-github-samples) control offers different axes types like numeric, category, and date-time to plot any type of data in the
 
 ### Special points customization
 
@@ -30,7 +30,7 @@ Highlight a particular region in a Vue sparkline charts using a range band to sh
 ## Related links
 [Learn More about Vue Sparkline Charts](https://www.syncfusion.com/vue-components/vue-sparkline?utm_source=github&utm_medium=listing&utm_campaign=vue-sparkline-chart-github-samples)
 
-[Download Free Trial](https://www.syncfusion.com/account/manage-trials/downloads?utm_source=github&utm_medium=listing&utm_campaign=vue-sparkline-chart-github-samples)
+[Download Free Trial](https://www.syncfusion.com/downloads/vue?utm_source=github&utm_medium=listing&utm_campaign=vue-sparkline-chart-github-samples)
 
 [Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=vue-sparkline-chart-github-samples)
 
@@ -46,7 +46,7 @@ Highlight a particular region in a Vue sparkline charts using a range band to sh
 
 ## About Syncfusion Vue Components
 
-Syncfusion's [Vue Components](https://www.syncfusion.com/vue-components?utm_source=github&utm_medium=listing&utm_campaign=vue-sparkline-chart-github-samples) library is the only suite that you will ever need to build an application since it contains over 80 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Sparkline Charts, we provide popular Vue Components such as [Button](https://www.syncfusion.com/vue-components/vue-button?utm_source=github&utm_medium=listing&utm_campaign=vue-sparkline-chart-github-samples), [Badge](https://www.syncfusion.com/vue-components/vue-badge?utm_source=github&utm_medium=listing&utm_campaign=vue-sparkline-chart-github-samples), [Scheduler](https://www.syncfusion.com/vue-components/vue-scheduler?utm_source=github&utm_medium=listing&utm_campaign=vue-sparkline-chart-github-samples), [Diagram](https://www.syncfusion.com/vue-components/vue-diagram?utm_source=github&utm_medium=listing&utm_campaign=vue-sparkline-chart-github-samples), and [Word Processor](https://www.syncfusion.com/vue-components/vue-word-processor?utm_source=github&utm_medium=listing&utm_campaign=vue-sparkline-chart-github-samples).
+Syncfusion's [Vue Components](https://www.syncfusion.com/vue-components?utm_source=github&utm_medium=listing&utm_campaign=vue-sparkline-chart-github-samples) library is the only suite that you will ever need to build an application since it contains over 80 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Sparkline Charts, we provide popular Vue Components such as [Charts](https://www.syncfusion.com/vue-components/vue-charts?utm_source=github&utm_medium=listing&utm_campaign=vue-speed-dial-github-samples), [Grid](https://www.syncfusion.com/vue-components/vue-grid?utm_source=github&utm_medium=listing&utm_campaign=vue-speed-dial-github-samples), [Scheduler](https://www.syncfusion.com/vue-components/vue-scheduler?utm_source=github&utm_medium=listing&utm_campaign=vue-sparkline-chart-github-samples), [Diagram](https://www.syncfusion.com/vue-components/vue-diagram?utm_source=github&utm_medium=listing&utm_campaign=vue-sparkline-chart-github-samples), and [Word Processor](https://www.syncfusion.com/vue-components/vue-word-processor?utm_source=github&utm_medium=listing&utm_campaign=vue-sparkline-chart-github-samples).
 
 ### About Syncfusion
 Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 29,000 customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
@@ -56,5 +56,5 @@ Today, we provide 1800+ components and frameworks for web ([Blazor](https://www.
 <hr style="height:0.3px;border:none;color:lightgrey;background-color:lightgrey;" />
 
 <p align="center">
-<a href="mailto:sales@syncfusion.com?Subject=Syncfusion Vue Grid - GitHub" target="_top">sales@syncfusion.com</a> | <a href="https://www.syncfusion.com?utm_source=github&utm_medium=listing&utm_campaign=vue-sparkline-chart-github-samples)">www.syncfusion.com</a> | Toll Free: 1-888-9 DOTNET <br>
+<a href="mailto:sales@syncfusion.com?Subject=Syncfusion Vue Sparkline Charts - GitHub" target="_top">sales@syncfusion.com</a> | <a href="https://www.syncfusion.com?utm_source=github&utm_medium=listing&utm_campaign=vue-sparkline-chart-github-samples)">www.syncfusion.com</a> | Toll Free: 1-888-9 DOTNET <br>
 </p>
